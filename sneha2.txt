@@ -1,0 +1,3 @@
+Hello I am Sneha Chanda. This is my 3rd file. I have created this
+file in order to complete my assignment 2.
+After creating 2nd file am going to commit and push it to remote repository.
