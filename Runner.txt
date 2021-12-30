@@ -1,0 +1,2 @@
+The new version of SPARROW will use applet free DSC signing.
+For this, all users will have to install DSC signer service (ONE TIME) on their respective client machines.

@@ -5,3 +5,4 @@
 ## Purpose
 #This is a simple website showing how to use git and github
 ## How to contribute
+##This is simple example showing diff and merge tools in git hub using git bash
